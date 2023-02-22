@@ -33,7 +33,7 @@ https://github.com/btay786/1-project-to-rule
 
 <li> Application Link: </li> 
 
-(url)
+https://jeansuw.github.io/1-project-to-rule/
 
 ## Usage
 
