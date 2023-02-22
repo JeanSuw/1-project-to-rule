@@ -31,6 +31,10 @@ SO THAT I can see how many pages my Pokemons and I need to read every day <br>
 
 https://github.com/btay786/1-project-to-rule
 
+<li> Forked Github Repository Link: </li>
+
+https://github.com/JeanSuw/1-project-to-rule
+
 <li> Application Link: </li> 
 
 https://jeansuw.github.io/1-project-to-rule/
